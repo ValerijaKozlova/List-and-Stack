@@ -1,0 +1,4 @@
+﻿  test_stack.cpp
+test_main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:LBR"
+  test_stack.vcxproj -> F:\Stack1\Class_List-master\Class_List-master\List\Debug\test_stack.exe
+  test_stack.vcxproj -> F:\Stack1\Class_List-master\Class_List-master\List\Debug\test_stack.pdb (Full PDB)
